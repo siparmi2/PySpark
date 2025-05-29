@@ -1,0 +1,29 @@
+[
+    {
+    "investor_id": "INV001",
+    "account_numbers": ["ACC123", "ACC456"],
+    "transactions": [
+      {
+        "transID": "T001",
+        "date": "2024-06-01",
+        "transamount": 1500.75
+      },
+      {
+        "transID": "T002",
+        "date": "2024-06-15",
+        "transamount": 2300.00
+      }
+    ]
+},
+{
+    "investor_id": "INV002",
+    "account_numbers": ["ACC789"],
+    "transactions": [
+      {
+        "transID": "T003",
+        "date": "2024-07-05",
+        "transamount": 500.00
+      }
+    ]
+}
+]
